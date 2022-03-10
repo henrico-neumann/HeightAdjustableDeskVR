@@ -4,5 +4,5 @@ Unity project that let's us track the height and position of a desk in real worl
 
 ## Requirements
 
-VR Headset: Oculus Quest 2
-Unity 2020.3.26f1
+- VR Headset: Oculus Quest 2
+- Unity 2020.3.26f1
